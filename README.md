@@ -16,6 +16,5 @@ Open Json server before:
 ### `npm start`
 
 ![image](https://user-images.githubusercontent.com/60510780/134160409-3d7deb67-9fcf-416d-ae7f-fc174af738a0.png)
-![image](https://user-images.githubusercontent.com/60510780/134160510-2d933b04-c053-472f-9ca6-6bab8f959dde.png)
-![image](https://user-images.githubusercontent.com/60510780/134160654-6a410d94-6004-4b51-93d3-e35b20087697.png)
-
+![image](https://user-images.githubusercontent.com/60510780/134160841-d90d6677-d182-4951-852f-06ae5f877e10.png)
+![image](https://user-images.githubusercontent.com/60510780/134161201-74fd4e96-97d7-4ac0-a0e2-8caebd43883a.png)
